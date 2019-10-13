@@ -3,3 +3,4 @@
 | chap               | problem         | path | 1st                | 2nd |
 | 例題1-1-1 くじびき | [[https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c][JOI 2007 本戦 C]] | [[./1-1/1][回答]] | o@<2019-10-14 Mon> |     |
 | 例題1-6-1 三角形   | [[https://atcoder.jp/contests/arc004/tasks/arc004_1][ARC 004 A]]       | [[file:1-6-1/1/][回答]] | o@<2019-10-14 Mon> |     |
+| 例題1-6-1 三角形   | [[https://atcoder.jp/contests/abc051/tasks/abc051_b][ABC 051 B]]       | [[file:1-6-1/2/][回答]] | o@<2019-10-14 Mon> |     |
