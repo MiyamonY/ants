@@ -1,0 +1,4 @@
+* problems
+
+| chap               | problem                | path | 1st                | 2nd |
+| 例題1-1-1 くじびき | [[https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c][JOI 2007 本戦 C ダーツ]] | [[./1-1/1][回答]] | o@<2019-10-14 Mon> |     |
